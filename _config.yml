@@ -44,7 +44,7 @@ collections:
     sort_by: title
     output: true
 
-theme: jekyll-theme-primer
+theme: jekyll-theme-cayman
 
 plugins:
   # default on GitHub pages
